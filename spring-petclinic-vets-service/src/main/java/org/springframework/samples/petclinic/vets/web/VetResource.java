@@ -28,7 +28,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author Juergen Hoeller
  * @author Mark Fisher
- * @author Ken 
+ * @author Ken Krebs
  * @author Arjen Poutsma
  * @author Maciej Szarlinski
  */
